@@ -2859,5 +2859,8 @@
     <string name="clock_title_samsung" translatable="false">Samsung</string>
     <string name="clock_title_samsung_bold" translatable="false">Samsung (bold)</string>
     <string name="clock_title_samsung_accent" translatable="false">Samsung (colored)</string>
+    
+    <!-- Spidey Analog clock -->
+    <string name="clock_title_spidey" translatable="false">Spidey</string>
 
 </resources>
