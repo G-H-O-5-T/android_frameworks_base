@@ -56,6 +56,8 @@ LOCAL_REQUIRED_MODULES := \
 	FontSurferSourceOverlay \
 	FontNokiaPureSourceOverlay \
 	FontFifa2018SourceOverlay \
+	Font20SevenSourceOverlay \
+	FontRoadRageSourceOverlay \
 	IconPackCircularAndroidOverlay \
 	IconPackCircularLauncherOverlay \
 	IconPackCircularSettingsOverlay \
