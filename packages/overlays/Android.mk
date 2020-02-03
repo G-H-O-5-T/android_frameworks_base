@@ -60,6 +60,8 @@ LOCAL_REQUIRED_MODULES := \
 	FontRoadRageSourceOverlay \
 	FontCoconSourceOverlay \
 	FontQuandoSourceOverlay \
+	FontGrandHotelSourceOverlay \
+	FontRedressedSourceOverlay \
 	IconPackCircularAndroidOverlay \
 	IconPackCircularLauncherOverlay \
 	IconPackCircularSettingsOverlay \
